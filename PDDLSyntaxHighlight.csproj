@@ -55,7 +55,9 @@
     <Content Include="Resources\Icon128x128.png">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <None Include="Syntaxes\pddl.tmLanguage.json" />
+    <Content Include="Syntaxes\pddl.tmLanguage">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Snippets\" />
