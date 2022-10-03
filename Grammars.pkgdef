@@ -1,0 +1,13 @@
+﻿; Registering the package
+[$RootKey$\InstalledProducts\PDDLSyntaxHighlightPackage]
+"Package"="{39104845-3406-4063-85bf-1ed0b091d970}"
+[$RootKey$\BindingPaths\{39104845-3406-4063-85bf-1ed0b091d970}]
+"$PackageFolder$"=""
+
+; Registering the TextMate grammar
+[$RootKey$\TextMate\Repositories]
+"PDDLSyntaxHighlight"="$PackageFolder$\Syntaxes"
+
+; Match file extensions with icons. See full icon list at https://glyphlist.azurewebsites.net/knownmonikers/
+[$RootKey$\ShellFileAssociations\.pddl]
+"DefaultIconMoniker"="KnownMonikers.Plan"
