@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="PDDLSyntaxHighlight.5a5139a7-8216-4e58-a46e-915f975ed888" Version="1.04" Language="en-US" Publisher="Kristian Skov Johansen" />
+        <Identity Id="PDDLSyntaxHighlight.5a5139a7-8216-4e58-a46e-915f975ed888" Version="1.00" Language="en-US" Publisher="Kristian Skov Johansen" />
         <DisplayName>PDDL Syntax Highlight</DisplayName>
         <Description xml:space="preserve">Simple syntax highlighting for PDDL files</Description>
+        <MoreInfo>https://github.com/kris701/PDDLSyntaxHighlight</MoreInfo>
         <Icon>Resources\Icon128x128.png</Icon>
         <PreviewImage>Resources\Icon128x128.png</PreviewImage>
     </Metadata>
